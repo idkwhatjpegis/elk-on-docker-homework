@@ -23,4 +23,6 @@ metricbeat setup --index-management -E output.logstash.enabled=false -E 'output.
 # Start MySQL
 mysql
 
+# Start System Module
+system
 
